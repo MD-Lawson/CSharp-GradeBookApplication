@@ -1,5 +1,4 @@
-﻿
-using GradeBook.Enums;
+﻿using GradeBook.Enums;
 
 namespace GradeBook.GradeBooks
 {
